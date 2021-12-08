@@ -42,11 +42,12 @@ body {
     float: right;
 }
 
-#nav-text {
+h1#nav-text {
     color: #06b38f;
     font-weight: 800;
     position: absolute;
     top: 30%;
+    left:10%;
     font-size: 30px;
 }
 
