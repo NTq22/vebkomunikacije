@@ -32,12 +32,12 @@ body {
     color: #ffd700;
 }#navbar-right {
     float: right;
-}#nav-text {
-    color: white;
+}h1#nav-text {
+    color: #06b38f;
     font-weight: 800;
     position: absolute;
     top: 30%;
-    padding-left: 100px;
+    left: 10%;
     font-size: 30px;
 }.prvaslika {
     opacity: 0.5;
