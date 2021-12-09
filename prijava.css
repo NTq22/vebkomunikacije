@@ -217,7 +217,7 @@ input[type="submit"]:hover {
 }
 
 .label2 {
-    font: 'Roboto', Sans-serif;
+    font-family: 'Roboto', Sans-serif;
     font-size: 22px;
 }
 
